@@ -1,4 +1,4 @@
-# Deployment Link = https://typing-arena-adi.netlify.app/
+# Deployment Link = https://typing-speed-site-gamma.vercel.app/
 
 # Getting Started with Create React App
 
